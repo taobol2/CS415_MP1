@@ -1,0 +1,2 @@
+*.exe filter=lfs diff=lfs merge=lfs -text
+Saved/StagedBuilds/Windows/Engine/Binaries/Win64/UnrealGame-Win64-Shipping.exe filter=lfs diff=lfs merge=lfs -text
