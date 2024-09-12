@@ -1,3 +1,4 @@
 # CS415_MP1   
-### Taobo Liao   
-### taobol2
+### An Infinite Matrix
+### Name & UID:   
+Taobo Liao taobol2
